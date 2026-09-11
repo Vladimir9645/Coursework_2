@@ -177,3 +177,4 @@ class Aeroplane:
             f"Страна: {self._origin_country} | "
             f"Высота: {self._altitude} м | Скорость: {self._velocity} м/с"
         )
+

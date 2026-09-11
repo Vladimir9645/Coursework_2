@@ -158,3 +158,4 @@ class CSVFileManager(FileManagerInterface):
             for p in kept:
                 writer.writerow(p.to_dict())
         return removed
+
