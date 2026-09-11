@@ -74,3 +74,4 @@ class SiteApi(SiteApiInterface):
         self.aeroplanes = data.get("states") or []
         return self.aeroplanes
 
+
